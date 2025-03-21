@@ -12,6 +12,7 @@ Financial Analysis and Reporting.
 Problem-Solving and Critical Thinking.
 Eagerness to Learn and Adapt.**
 
+<!--Section 2: List 3-4 Key projects -->
 ## MY PROJECT
 
 Performed data cleaning on the Bakery dataset, analyze using key performance indicators (KPIs) of sales, and determine the organization's profit across different days of sales.
