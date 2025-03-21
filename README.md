@@ -6,14 +6,26 @@
 
 ## MY SKILLS 
 
-Data Analysis: Python, SQL, Power BI, and Excel.
+**Data Analysis: Python, SQL, Power BI, and Excel.
 Data Visualization and Cleaning.
-Financial Analysis and Reporting.**
-Problem-Solving and Critical Thinking.**
+Financial Analysis and Reporting.
+Problem-Solving and Critical Thinking.
 Eagerness to Learn and Adapt.**
 
 ## MY PROJECT
-Cleaning of Bakery dataset and to determine the KPI's of the sales, and to determine the profit of the organization with days of sales.
+
+Performed data cleaning on the Bakery dataset, analyze using key performance indicators (KPIs) of sales, and determine the organization's profit across different days of sales.
+Dataset originated - Kaggle.com
+Tools used - Microsoft Power BI
+Data cleaning and Visualization - Microsoft Power BI.
 ![image](Bakery.png)
+
+English Premier League analysis of 2023/2024 season, for the performance of each clubs and players for the whole season.
+Dataset originated - Kaggle.com
+Tools used - Microsoft Power BI
+Data cleaning - Microsoft Excel.
+![image]
+
+
 
  
