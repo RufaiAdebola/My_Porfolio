@@ -6,15 +6,13 @@
 
 ## MY SKILLS 
 
-**_Data Analysis: Python, SQL, Power BI, and Excel**
+Data Analysis: Python, SQL, Power BI, and Excel.
+Data Visualization and Cleaning.
+Financial Analysis and Reporting.**
+Problem-Solving and Critical Thinking.**
+Eagerness to Learn and Adapt.**
 
-**_Data Visualization and Cleaning**
-
-**_Financial Analysis and Reporting**
-
-
-**_Problem-Solving and Critical Thinking**
-
-**_Eagerness to Learn and Adapt**
+## MY PROJECT
+Cleaning of Bakery dataset and to determine the KPI's of the sales, and to determine the profit of the organization with days of sales
 
  
