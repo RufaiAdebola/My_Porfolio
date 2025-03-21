@@ -45,8 +45,9 @@ It is a privilege to present my recommendation letter as a testament to my skill
 
 ## CONTACT DETAILS
 **_Lets see how we can be benefit to one another*
-<table> +2348147362706</table>
 <table>adebola.rufai@gmail.com</table>
+<tbody>+2348147362706</tbody>
+<tr>12B, Degun street, Ijebu-ode, Ogun state, Nigeria.</tr>
 
 
 **THANK YOU FOR READING**
