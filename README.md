@@ -25,7 +25,7 @@ Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
 Data cleaning - Microsoft Excel.
 ![image](Premierleague.png)
-![image](Premierleague 2.png)
+![image](Premierleague2.png)
 
 
 
