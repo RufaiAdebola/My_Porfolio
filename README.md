@@ -24,6 +24,7 @@ English Premier League analysis of 2023/2024 season, for the performance of each
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
 Data cleaning - Microsoft Excel.
+![image](Premier league.png)
 ![image]
 
 
