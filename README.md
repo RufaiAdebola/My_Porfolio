@@ -47,7 +47,7 @@ It is a privilege to present my recommendation letter as a testament to my skill
 _Lets see how we can be of benefit to one another_
 
 ________________________________________________________________________
-    <table> adebola.rufai@gmail.com </table>
+<table>    adebola.rufai@gmail.com </table>
 ________________________________________________________________________
     <table> (234)-814-736-2706 </table>
 ________________________________________________________________________
