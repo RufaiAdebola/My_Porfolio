@@ -1,4 +1,4 @@
-### MY_PORTFOLIO
+## MY_PORTFOLIO
 
 ## ABOUT
 
@@ -7,9 +7,14 @@
 ## MY SKILLS 
 
 **_Data Analysis: Python, SQL, Power BI, and Excel**
+
 **_Data Visualization and Cleaning**
+
 **_Financial Analysis and Reporting**
+
+
 **_Problem-Solving and Critical Thinking**
+
 **_Eagerness to Learn and Adapt**
 
  
