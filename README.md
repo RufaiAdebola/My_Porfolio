@@ -1,3 +1,4 @@
+<!-- selection 1: Introduce yourself -->
 ## MY_PORTFOLIO
 
 ## ABOUT
@@ -12,7 +13,7 @@ Financial Analysis and Reporting.
 Problem-Solving and Critical Thinking.
 Eagerness to Learn and Adapt.**
 
-<!--Section 2: List 3-4 Key projects -->
+<!--Section 2: List 3-6 Key projects -->
 ## MY PROJECT
 
 Performed data cleaning on the Bakery dataset, analyze using key performance indicators (KPIs) of sales, and determine the organization's profit across different days of sales.
@@ -27,6 +28,7 @@ Tools used - Microsoft Power BI
 Data cleaning - Microsoft Excel.
 ![image](Premierleague.png)
 ![image](Premierleague2.png)
+[ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7290888425598029825/)
 
 
 
