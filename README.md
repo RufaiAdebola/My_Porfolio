@@ -17,12 +17,14 @@ Eagerness to Learn and Adapt.**
 ## MY PROJECT
 
 Performed data cleaning on the Bakery dataset, analyze using key performance indicators (KPIs) of sales, and determine the organization's profit across different days of sales.
+
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
 Data cleaning and Visualization - Microsoft Power BI.
 ![image](Bakery.png)
 
 English Premier League analysis of 2023/2024 season, for the performance of each clubs and players for the whole season.
+
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
 Data cleaning - Microsoft Excel.
@@ -30,6 +32,15 @@ Data cleaning - Microsoft Excel.
 ![image](Premierleague2.png)
 [ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7290888425598029825/)
 
+## CERTIFICATION
+
+Certification of completion of a course is not just a piece of paper or documents but a dedication and hardwork to vent on new opportunities.
+[Read More](https://www.linkedin.com/feed/update/urn:li:activity:7308861528642854913/)
+
+## RECONMENDATION.
+It is a privilege to present my recommendation letter as a testament to my skills and expertise in Data Analysis. This serves as a valuable certification, enabling me to demonstrate my knowledge in any organization I find myself in. I remain open to new challenges and opportunities for growth.
+
+![image]
 
 
  
