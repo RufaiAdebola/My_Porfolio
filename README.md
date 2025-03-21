@@ -13,6 +13,7 @@ Problem-Solving and Critical Thinking.**
 Eagerness to Learn and Adapt.**
 
 ## MY PROJECT
-Cleaning of Bakery dataset and to determine the KPI's of the sales, and to determine the profit of the organization with days of sales
+Cleaning of Bakery dataset and to determine the KPI's of the sales, and to determine the profit of the organization with days of sales.
+![image](Bakery.png)
 
  
