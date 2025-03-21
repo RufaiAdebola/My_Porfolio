@@ -21,6 +21,7 @@ Performed data cleaning on the Bakery dataset, analyze using key performance ind
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
 Data cleaning and Visualization - Microsoft Power BI.
+
 ![image](Bakery.png)
 
 English Premier League analysis of 2023/2024 season, for the performance of each clubs and players for the whole season.
@@ -28,9 +29,10 @@ English Premier League analysis of 2023/2024 season, for the performance of each
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
 Data cleaning - Microsoft Excel.
+
+[ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7290888425598029825/)
 ![image](Premierleague.png)
 ![image](Premierleague2.png)
-[ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7290888425598029825/)
 
 ## CERTIFICATION
 
@@ -41,7 +43,9 @@ Certification of completion of a course is not just a piece of paper or document
 ## RECONMENDATION.
 It is a privilege to present my recommendation letter as a testament to my skills and expertise in Data Analysis. This serves as a valuable certification, enabling me to demonstrate my knowledge in any organization I find myself in. I remain open to new challenges and opportunities for growth.
 
-![image]
+![image](Reconmendation.png)
+
+**THANK YOU FOR READING**
 
 
  
