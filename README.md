@@ -38,7 +38,7 @@ Certification of completion of a course is not just a piece of paper or document
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7308861528642854913/)
 ![image](Certificate App.png)
 
-## RECONMENDATION.
+## RECOMMENDATION.
 It is a privilege to present my recommendation letter as a testament to my skills and expertise in Data Analysis. This serves as a valuable certification, enabling me to demonstrate my knowledge in any organization I find myself in. I remain open to new challenges and opportunities for growth.
 
 ![image](Reconmendation.png)
