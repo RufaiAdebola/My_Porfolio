@@ -3,7 +3,7 @@
 
 ## ABOUT
 
- Hello, I am Rufai Raheem Adebola, hails from Ogun state, Nigeria. A highly motivated and detail-oriented graduate with a Higher National Diploma (HND) in Banking and Finance from The Polytechnic Ibadan. With a strong foundation in financial principles and an emerging expertise in data analysis, I am passionate about leveraging technology to drive insights and improve decision-making processes.
+ Hello, I am Rufai Raheem Adebola, hails from Ogun state, Nigeria. A highly motivated and detail-oriented graduate with a Higher National Diploma (HND) in Banking and Finance from The Polytechnic Ibadan. With a strong foundation in financial principles, risk management and insight, and an emerging expertise in data analysis, I am passionate about leveraging technology to drive insights and improve decision-making processes.
 
 ## MY SKILLS 
 
@@ -42,6 +42,12 @@ Certification of completion of a course is not just a piece of paper or document
 It is a privilege to present my recommendation letter as a testament to my skills and expertise in Data Analysis. This serves as a valuable certification, enabling me to demonstrate my knowledge in any organization I find myself in. I remain open to new challenges and opportunities for growth.
 
 ![image](Reconmendation.png)
+
+## CONTACT DETAILS
+**_Lets see how we can be benefit to one another*
+<table> +2348147362706</table>
+<table>adebola.rufai@gmail.com</table>
+
 
 **THANK YOU FOR READING**
 
