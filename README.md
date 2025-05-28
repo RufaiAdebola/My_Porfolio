@@ -11,7 +11,8 @@
 Data Visualization and Cleaning.
 Financial Analysis and Reporting.
 Problem-Solving and Critical Thinking.
-Eagerness to Learn and Adapt.**
+Eagerness to Learn and Adapt.
+English (Advance in writing and fluent in speaking), Yoruba (Native).**
 
 <!--Section 2: List 3-6 Key projects -->
 ## MY PROJECT
@@ -26,12 +27,16 @@ Data cleaning and Visualization - Microsoft Power BI.
 English Premier League analysis of 2023/2024 season, for the performance of each clubs and players for the whole season.
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
-Data cleaning - Microsoft Excel.
+Data cleaning - Microsoft Excel
+Visualization - Microsoft Power BI.
 
 [ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7290888425598029825/)
 ![image](Premierleague.png)
 ![image](Premierleague2.png)
 
+Optimizing Fleets Management Analysis on Fuel Consumption and Maintainace Data.
+Fleet management is crucial in maximising effective vehicles usage and monitoring fuel consumption to minimize vehicle missmanagement and ensure appropirate maintainace system. To achieve this, its essencial to uncover inefficiencies, optimize fuel usage,amd streamline vehicle maintainace. This study seeks to spot trends in maintainace and fuel efficiency to inform data-driven decision making. Actionable strategies are being proposed to enhance fleet performance and mnimize costly downtime.
+![image]
 ## CERTIFICATION
 
 Certification of completion of a course is not just a piece of paper or documents but a dedication and hardwork to vent on new opportunities.
@@ -44,7 +49,7 @@ It is a privilege to present my recommendation letter as a testament to my skill
 ![image](Recommendation letters send.pdf.jpg)
 
 ## CONTACT DETAILS
-_Lets see how we can be of benefit to one another_
+_Let's see how we can be of benefit to one another_
 
 ________________________________________________________________________
 <table>    adebola.rufai@gmail.com </table>
