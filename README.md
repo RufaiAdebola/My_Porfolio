@@ -19,6 +19,7 @@ English (Advance in writing and fluent in speaking), Yoruba (Native).**
 
 **Bakery Dataset on Sales**
 
+
 Performed data cleaning on the Bakery dataset, analyze using key performance indicators (KPIs) of sales, and determine the organization's profit across different days of sales.
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
@@ -26,7 +27,10 @@ Data cleaning and Visualization - Microsoft Power BI.
 
 ![image](Bakery.png)
 
+
 **English Premier League analysis of 2023/2024 season**
+
+
 Its a football game in which two teams of 11 players, using any part of their bodies except their hands and arms, try to maneuver the ball into the opposing team’s goal. Only the goalkeeper is permitted to handle the ball and may do so only within the penalty area surrounding the goal. The team that scores more goals wins. 
 Football is the world’s most popular ball game in numbers of participants and spectators. The performance of each clubs and players for the whole season of English Premier league.
 
@@ -35,25 +39,35 @@ Tools used - Microsoft Power BI
 Data cleaning - Microsoft Excel
 Visualization - Microsoft Power BI.
 
-[ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7290888425598029825/)
 ![image](Premierleague.png)
 ![image](Premierleague2.png)
 
+[ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7290888425598029825/)
+
+
 **Optimizing Fleets Management Analysis on Fuel Consumption and Maintainace Data.**
+
+
 Fleet management is crucial in maximising effective vehicles usage and monitoring fuel consumption to minimize vehicle missmanagement and ensure appropirate maintainace system. To achieve this, its essencial to uncover inefficiencies, optimize fuel usage,amd streamline vehicle maintainace. This study seeks to spot trends in maintainace and fuel efficiency to inform data-driven decision making. Actionable strategies are being proposed to enhance fleet performance and mnimize costly downtime.
 
 ![image](Front page on fleet.png)
 ![image](fleet.png)
 ![image](fleets 2.png)
+
 [ReadMore](Optimizing Fleet Performance...pdf)
+
 
 ## CERTIFICATION
 
 Certification of completion of a course is not just a piece of paper or documents but a dedication and hardwork to vent on new opportunities.
-[Read More](https://www.linkedin.com/feed/update/urn:li:activity:7308861528642854913/)
+
 ![image](Certificate App.png)
 
+[Read More](https://www.linkedin.com/feed/update/urn:li:activity:7308861528642854913/)
+
+
 ## RECOMMENDATION.
+
 It is a privilege to present my recommendation letter as a testament to my skills and expertise in Data Analysis. This serves as a valuable certification, enabling me to demonstrate my knowledge in any organization I find myself in. I remain open to new challenges and opportunities for growth.
 
 ![image](Recommendation letters send.pdf.jpg)
