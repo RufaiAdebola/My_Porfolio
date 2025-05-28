@@ -36,13 +36,14 @@ Visualization - Microsoft Power BI.
 
 Optimizing Fleets Management Analysis on Fuel Consumption and Maintainace Data.
 Fleet management is crucial in maximising effective vehicles usage and monitoring fuel consumption to minimize vehicle missmanagement and ensure appropirate maintainace system. To achieve this, its essencial to uncover inefficiencies, optimize fuel usage,amd streamline vehicle maintainace. This study seeks to spot trends in maintainace and fuel efficiency to inform data-driven decision making. Actionable strategies are being proposed to enhance fleet performance and mnimize costly downtime.
-![image](Front page on fleet.png)
+![image](Frontpageonfleet.png)
+![image](fleet.png)
 ![image]
 ## CERTIFICATION
 
 Certification of completion of a course is not just a piece of paper or documents but a dedication and hardwork to vent on new opportunities.
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7308861528642854913/)
-![image](Certificate App.png)
+![image](CertificateApp.png)
 
 ## RECOMMENDATION.
 It is a privilege to present my recommendation letter as a testament to my skills and expertise in Data Analysis. This serves as a valuable certification, enabling me to demonstrate my knowledge in any organization I find myself in. I remain open to new challenges and opportunities for growth.
