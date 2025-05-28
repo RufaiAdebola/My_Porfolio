@@ -21,6 +21,7 @@ English (Advance in writing and fluent in speaking), Yoruba (Native).**
 
 
 Performed data cleaning on the Bakery dataset, analyze using key performance indicators (KPIs) of sales, and determine the organization's profit across different days of sales.
+
 Dataset originated - Kaggle.com
 Tools used - Microsoft Power BI
 Data cleaning and Visualization - Microsoft Power BI.
