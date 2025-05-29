@@ -49,7 +49,7 @@ Visualization - Microsoft Power BI.
 **Optimizing Fleets Management Analysis on Fuel Consumption and Maintainace Data.**
 
 
-Fleet management is crucial in maximising effective vehicles usage and monitoring fuel consumption to minimize vehicle missmanagement and ensure appropirate maintainace system. To achieve this, its essencial to uncover inefficiencies, optimize fuel usage,amd streamline vehicle maintainace. This study seeks to spot trends in maintainace and fuel efficiency to inform data-driven decision making. Actionable strategies are being proposed to enhance fleet performance and mnimize costly downtime.
+Fleet management is crucial in maximising effective vehicles usage and monitoring fuel consumption to minimize vehicle missmanagement and ensure appropirate maintainace system. To achieve this, its essencial to uncover inefficiencies, optimize fuel usage, and streamline vehicle maintainace. This study seeks to spot trends in maintainace and fuel efficiency to inform data-driven decision making. Actionable strategies are being proposed to enhance fleet performance and mnimize costly downtime.
 
 ![image](Front page on fleet.png)
 ![image](fleet.png)
@@ -74,12 +74,14 @@ It is a privilege to present my recommendation letter as a testament to my skill
 ![image](Recommendation letters send.pdf.jpg)
 
 ## CONTACT DETAILS
-_Let's see how we can be of benefit to one another_
+**_Let's see how we can be of benefit to one another_**
 
 ________________________________________________________________________
-<table>    adebola.rufai@gmail.com </table>
+<table>    E-mail - adebola.rufai@gmail.com </table>
 ________________________________________________________________________
-<table>     (234)-814-736-2706 </table>
+<table>   Telphone (+234)-814-736-2706 </table>
+________________________________________________________________________
+<table>   Whatsapp (+234)-705-106-6456 </table>
 ________________________________________________________________________
 <table>     12B, Degun street Ijebu-ode, Ogun state, Nigeria. </table>
 ________________________________________________________________________
