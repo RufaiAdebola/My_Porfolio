@@ -58,6 +58,15 @@ Fleet management is crucial in maximising effective vehicles usage and monitorin
 [ReadMore](Optimizing Fleet Performance...pdf)
 
 
+## Tableau for Data Analysis.
+Tableau for data analysis is the same as using Power BI and Excel all are use for Business Intelligence.
+
+Tableau is a data visualization and business intelligence (BI) software that helps analyst turn raw data into interactive, easy-to-understand, charts, graphs, and dashboards.
+
+![image]
+[ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7334576778381860864/)
+
+
 ## CERTIFICATION
 
 Certification of completion of a course is not just a piece of paper or documents but a dedication and hardwork to vent on new opportunities.
