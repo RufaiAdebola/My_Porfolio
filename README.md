@@ -63,7 +63,8 @@ Tableau for data analysis is the same as using Power BI and Excel all are use fo
 
 Tableau is a data visualization and business intelligence (BI) software that helps analyst turn raw data into interactive, easy-to-understand, charts, graphs, and dashboards.
 
-![image]
+![image](Tableau dashboard .jpg)
+
 [ReadMore](https://www.linkedin.com/feed/update/urn:li:activity:7334576778381860864/)
 
 
