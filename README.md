@@ -36,7 +36,6 @@ Its a football game in which two teams of 11 players, using any part of their bo
 Football is the world’s most popular ball game in numbers of participants and spectators. The performance of each clubs and players for the whole season of English Premier league.
 
 Dataset originated - Kaggle.com
-Tools used - Microsoft Power BI
 Data cleaning - Microsoft Excel
 Visualization - Microsoft Power BI.
 
